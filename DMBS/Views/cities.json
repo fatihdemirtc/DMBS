@@ -1,0 +1,326 @@
+﻿[
+  {
+    "il": "ADANA",
+    "plaka": 1
+  },
+  {
+    "il": "ADIYAMAN",
+    "plaka": 2
+  },
+  {
+    "il": "AFYONKARAHİSAR",
+    "plaka": 3
+  },
+  {
+    "il": "AĞRI",
+    "plaka": 4
+  },
+  {
+    "il": "AMASYA",
+    "plaka": 5
+  },
+  {
+    "il": "ANKARA",
+    "plaka": 6
+  },
+  {
+    "il": "ANTALYA",
+    "plaka": 7
+  },
+  {
+    "il": "ARTVİN",
+    "plaka": 8
+  },
+  {
+    "il": "AYDIN",
+    "plaka": 9
+  },
+  {
+    "il": "BALIKESİR",
+    "plaka": 10
+  },
+  {
+    "il": "BİLECİK",
+    "plaka": 11
+  },
+  {
+    "il": "BİNGÖL",
+    "plaka": 12
+  },
+  {
+    "il": "BİTLİS",
+    "plaka": 13
+  },
+  {
+    "il": "BOLU",
+    "plaka": 14
+  },
+  {
+    "il": "BURDUR",
+    "plaka": 15
+  },
+  {
+    "il": "BURSA",
+    "plaka": 16
+  },
+  {
+    "il": "ÇANAKKALE",
+    "plaka": 17
+  },
+  {
+    "il": "ÇANKIRI",
+    "plaka": 18
+  },
+  {
+    "il": "ÇORUM",
+    "plaka": 19
+  },
+  {
+    "il": "DENİZLİ",
+    "plaka": 20
+  },
+  {
+    "il": "DİYARBAKIR",
+    "plaka": 21
+  },
+  {
+    "il": "EDİRNE",
+    "plaka": 22
+  },
+  {
+    "il": "ELAZIĞ",
+    "plaka": 23
+  },
+  {
+    "il": "ERZİNCAN",
+    "plaka": 24
+  },
+  {
+    "il": "ERZURUM",
+    "plaka": 25
+  },
+  {
+    "il": "ESKİŞEHİR",
+    "plaka": 26
+  },
+  {
+    "il": "GAZİANTEP",
+    "plaka": 27
+  },
+  {
+    "il": "GİRESUN",
+    "plaka": 28
+  },
+  {
+    "il": "GÜMÜŞHANE",
+    "plaka": 29
+  },
+  {
+    "il": "HAKKARİ",
+    "plaka": 30
+  },
+  {
+    "il": "HATAY",
+    "plaka": 31
+  },
+  {
+    "il": "ISPARTA",
+    "plaka": 32
+  },
+  {
+    "il": "MERSİN",
+    "plaka": 33
+  },
+  {
+    "il": "İSTANBUL",
+    "plaka": 34
+  },
+  {
+    "il": "İZMİR",
+    "plaka": 35
+  },
+  {
+    "il": "KARS",
+    "plaka": 36
+  },
+  {
+    "il": "KASTAMONU",
+    "plaka": 37
+  },
+  {
+    "il": "KAYSERİ",
+    "plaka": 38
+  },
+  {
+    "il": "KIRKLARELİ",
+    "plaka": 39
+  },
+  {
+    "il": "KIRŞEHİR",
+    "plaka": 40
+  },
+  {
+    "il": "KOCAELİ",
+    "plaka": 41
+  },
+  {
+    "il": "KONYA",
+    "plaka": 42
+  },
+  {
+    "il": "KÜTAHYA",
+    "plaka": 43
+  },
+  {
+    "il": "MALATYA",
+    "plaka": 44
+  },
+  {
+    "il": "MANİSA",
+    "plaka": 45
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "plaka": 46
+  },
+  {
+    "il": "MARDİN",
+    "plaka": 47
+  },
+  {
+    "il": "MUĞLA",
+    "plaka": 48
+  },
+  {
+    "il": "MUŞ",
+    "plaka": 49
+  },
+  {
+    "il": "NEVŞEHİR",
+    "plaka": 50
+  },
+  {
+    "il": "NİĞDE",
+    "plaka": 51
+  },
+  {
+    "il": "ORDU",
+    "plaka": 52
+  },
+  {
+    "il": "RİZE",
+    "plaka": 53
+  },
+  {
+    "il": "SAKARYA",
+    "plaka": 54
+  },
+  {
+    "il": "SAMSUN",
+    "plaka": 55
+  },
+  {
+    "il": "SİİRT",
+    "plaka": 56
+  },
+  {
+    "il": "SİNOP",
+    "plaka": 57
+  },
+  {
+    "il": "SİVAS",
+    "plaka": 58
+  },
+  {
+    "il": "TEKİRDAĞ",
+    "plaka": 59
+  },
+  {
+    "il": "TOKAT",
+    "plaka": 60
+  },
+  {
+    "il": "TRABZON",
+    "plaka": 61
+  },
+  {
+    "il": "TUNCELİ",
+    "plaka": 62
+  },
+  {
+    "il": "ŞANLIURFA",
+    "plaka": 63
+  },
+  {
+    "il": "UŞAK",
+    "plaka": 64
+  },
+  {
+    "il": "VAN",
+    "plaka": 65
+  },
+  {
+    "il": "YOZGAT",
+    "plaka": 66
+  },
+  {
+    "il": "ZONGULDAK",
+    "plaka": 67
+  },
+  {
+    "il": "AKSARAY",
+    "plaka": 68
+  },
+  {
+    "il": "BAYBURT",
+    "plaka": 69
+  },
+  {
+    "il": "KARAMAN",
+    "plaka": 70
+  },
+  {
+    "il": "KIRIKKALE",
+    "plaka": 71
+  },
+  {
+    "il": "BATMAN",
+    "plaka": 72
+  },
+  {
+    "il": "ŞIRNAK",
+    "plaka": 73
+  },
+  {
+    "il": "BARTIN",
+    "plaka": 74
+  },
+  {
+    "il": "ARDAHAN",
+    "plaka": 75
+  },
+  {
+    "il": "IĞDIR",
+    "plaka": 76
+  },
+  {
+    "il": "YALOVA",
+    "plaka": 77
+  },
+  {
+    "il": "KARABÜK",
+    "plaka": 78
+  },
+  {
+    "il": "KİLİS",
+    "plaka": 79
+  },
+  {
+    "il": "OSMANİYE",
+    "plaka": 80
+  },
+  {
+    "il": "DÜZCE",
+    "plaka": 81
+  }
+]
