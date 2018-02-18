@@ -55,6 +55,7 @@ namespace DMBS.Presentation.Services
             string jsonOrganizations = wsm.PostManager("https://derbis.dernekler.gov.tr/IstatistikDerneklerWeb/GetIlFaaliyetDernek", body);
             OrganizationModel Organizations = JsonConvert.DeserializeObject<OrganizationModel>(jsonOrganizations);
             return Organizations;
+            
         }
     }
 }
